@@ -14,6 +14,10 @@
   <a href="https://travis-ci.org/reach/router"><img src="https://img.shields.io/travis/reach/router/master.svg?style=flat-square"></a>
 </p>
 
+## Important Note
+
+This package is a replica of the @reach/router, to hopefully work with React 17.0.2, it is still in testing and should be used cautiously.
+
 ## Documentation
 
 [Documentation Site](https://reach.tech/router)
