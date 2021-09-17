@@ -73,11 +73,10 @@
     "rollup-plugin-uglify": "^3.0.0",
     "watch-cli": "^0.2.2"
   },
-  "author": "Ryan Florence",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reach/router.git"
+    "url": "git+https://github.com/JohnBanas/reach-router-react.git"
   },
   "keywords": [
     "react",
